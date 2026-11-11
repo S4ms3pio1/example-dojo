@@ -1,11 +1,8 @@
-id: example
-name: Example Dojo
-type: example
+id: intro-forensics
+name: Intro to Forensics Dojo
+type: hidden
 award:
-  emoji: 😀
+  emoji: 🫆
 image: pwncollege/challenge-simple
 modules:
-  - id: hello
-  - id: world
-  - id: demo
-  - id: lectures
+  - id: intro

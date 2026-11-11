@@ -1,0 +1,37 @@
+name: Intro to Forensics
+
+visibility:
+  start: "2030-12-02T13:00:00-07:00"
+
+challenges:
+  - id: file
+    name: file
+    description: Identify files by what they actually are, not their name or extension.
+
+  - id: strings
+    name: strings
+    description: Extract readable text buried inside any file.
+
+  - id: xxd
+    name: xxd
+    description: Read them raw and decode what's hidden at the hex level.
+
+  - id: exiftool
+    name: exiftool
+    description: Read the hidden metadata stored inside images.
+
+  - id: zsteg
+    name: zsteg
+    description: Extract data hidden inside images one bit at a time.
+
+  - id: binwalk
+    name: binwalk
+    description: Scan and extract files embedded inside other files.
+
+  - id: steghide
+    name: steghide
+    description: Extract secrets hidden with steganography.
+
+  - id: foremost
+    name: foremost
+    description: Carve them back out from raw bytes.
