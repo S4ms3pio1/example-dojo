@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+
+# Make all challenge files readable and writable, except checker
+find -L /challenge -type f ! -name checker -exec chmod 0666 {} +
