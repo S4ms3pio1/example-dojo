@@ -1,2 +1,3 @@
 #!/bin/bash
 set -e
+find -L /challenge -type f ! -name checker ! -name .init -exec chmod 0666 {} +
