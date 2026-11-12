@@ -1,7 +1,5 @@
 name: Intro to Forensics
 
-visibility:
-  start: "2024-12-02T13:00:00-07:00"
 
 challenges:
   - id: file

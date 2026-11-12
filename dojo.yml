@@ -1,6 +1,6 @@
 id: intro-forensics
 name: Intro to Forensics Dojo
-type: hidden
+type: public
 award:
   emoji: 🫆
 image: pwncollege/challenge-simple
