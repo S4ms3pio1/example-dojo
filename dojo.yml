@@ -1,8 +1,11 @@
 id: intro-forensics
 name: Intro to Forensics Dojo
 type: public
-award:
-  emoji: 🫆
+# TODO: Award is disabled for now.
+# More modules are planned, and the award will be enabled
+# when the last module is released.
+#award:
+#  emoji: 🫆
 image: pwncollege/challenge-simple
 modules:
   - id: intro
