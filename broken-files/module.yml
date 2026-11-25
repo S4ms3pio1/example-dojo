@@ -3,30 +3,29 @@ visibility:
   start: "2030-12-02T13:00:00-07:00"
 
 challenges:
-- id: Un-JPEGged
+- id: un-jpegged
   name: Un-JPEGged
 
-- id: Off_the_JPEG
+- id: off-the-jpeg
   name: Off the JPEG
 
-- id: Patch_Me_If_You_Can
+- id: patch-me-if-you-can
   name: Patch Me If You Can
 
-- id: Now_You_Size_Me
+- id: now-you-size-me
   name: Now You Size Me
 
-- id: GIF_Me_A_Break
+- id: gif-me-a-break
   name: GIF Me A Break
 
-- id: Brain_WAVs
+- id: brain-wavs
   name: Brain WAVs
 
-- id: Whats_In_The_ZIP
+- id: whats-in-the-zip
   name: What's In The ZIP?
 
-- id: Frame_Crawler
+- id: frame-crawler
   name: Frame Crawler
 
-- id: The_Usual_Objects
+- id: the-usual-objects
   name: The Usual Objects
-
