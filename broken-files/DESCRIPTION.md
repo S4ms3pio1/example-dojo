@@ -11,7 +11,7 @@ All of these challenges are solvable using `hexedit` alone—except one, which m
 > **Note:** Challenges require you to view repaired images, listen to audio, or watch video frames—and some GUI viewers are not available inside the Dojo environment. You may want to copy the challenge files to your local machine using `scp`:
 
 ```bash
-scp -r -i path-to-key hacker@dojo.pwn.college:/challenge/files ./
+scp -r -i path-to-key hacker@dojo.pwn.college:/challenge/files/* ./
 ```
 
 Alternatively, you can download files directly from the VS Code editor inside pwn.college (**Workspace → `</>` Code**):

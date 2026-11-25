@@ -1,4 +1,4 @@
-## GIF Me A Break
+## GIF
 
 ### What is GIF?
 

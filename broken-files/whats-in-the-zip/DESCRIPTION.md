@@ -1,4 +1,4 @@
-## What's In The ZIP?
+## ZIP
 
 ### What is a ZIP?
 
