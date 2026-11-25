@@ -9,3 +9,4 @@ type: public
 image: pwncollege/challenge-simple
 modules:
   - id: intro
+  - id: broken-files
